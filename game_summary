@@ -1,0 +1,9 @@
+Hangman Game Summary:
+Random Word Selection: Enabled (words.py)
+Attempts Allowed: 6
+ASCII Visuals: Yes
+Replay Option: Yes
+Win Condition: Guess full word before tries run out
+Lose Condition: Tries reach 0 → word revealed
+
+Total Features: 6
